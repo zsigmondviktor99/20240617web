@@ -1,0 +1,5 @@
+- Vonj verziokezeles ala egy tetszoleges projektet
+- Vegyel fel mindent verziokezelesre
+- Tolts at mindent a lokalis repodba
+- Modositsd az egyik filet
+- A modositasokat szinten toltsd fel a lokalis repodba

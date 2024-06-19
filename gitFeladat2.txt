@@ -1,0 +1,5 @@
+- Keszits uj mellekagat mellekag neven
+- Modositsd valamelyik fileodat
+- A modositast tolsd fel a repobe
+- Allj at a master agra
+- A mellekagat fuzd vissza a masterre
